@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toast-notification-component/static/css/main.01f3ca69.css",
+    "main.js": "/toast-notification-component/static/js/main.bf685afa.js",
+    "static/js/453.6c7f607d.chunk.js": "/toast-notification-component/static/js/453.6c7f607d.chunk.js",
+    "index.html": "/toast-notification-component/index.html",
+    "main.01f3ca69.css.map": "/toast-notification-component/static/css/main.01f3ca69.css.map",
+    "main.bf685afa.js.map": "/toast-notification-component/static/js/main.bf685afa.js.map",
+    "453.6c7f607d.chunk.js.map": "/toast-notification-component/static/js/453.6c7f607d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f3ca69.css",
+    "static/js/main.bf685afa.js"
+  ]
+}
