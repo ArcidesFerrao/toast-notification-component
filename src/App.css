@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
-}
+.b-container {
+  background-color: #f4f5fa;
+  border-radius: 1rem;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+  width: 360px;
+  height: 400px;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+  padding: 2rem;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
 }
 
-.App-link {
-  color: #61dafb;
+.button-container {
+  width: 100%;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button-type {
+  width: 100%;
+  padding: 1rem 0;
+  background: none;
+  border-radius: 1rem;
+
+  font-weight: 400;
+  font-size: large;
+
+  color: #ffffff;
+  
+}
+
+.green {
+  background-color: hsla(120, 100%, 25%, 0.6);
+}
+.green:hover {
+  background-color: hsla(120, 100%, 25%);
+}
+.red {
+  background-color: hsl(0, 100%, 50%, 0.6);
+}
+.red:hover  {
+  background-color: hsl(0, 100%, 50%);
+}
+.orange {
+  background-color: hsl(39, 100%, 50%, 0.6);
+}
+.orange:hover  {
+  background-color: hsl(39, 100%, 50%);
+}
+.blue {
+  background-color: hsl(240, 100%, 50%, 0.6);
+}
+.blue:hover  {
+  background-color: hsl(240, 100%, 50%);
 }
