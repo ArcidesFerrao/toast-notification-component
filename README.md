@@ -2,6 +2,18 @@
 
 This project is the solution for the [Toast Notification Component](https://www.frontendpro.dev/frontend-coding-challenges/toast-notification-component-mHFR9GcTlWSyG8dO32Ok) challange on [FrontendPro](https://www.frontendpro.dev/f) that I'm using to pratice.
 
+## Table of contents
+
+- [Overview](#overview)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Create-React-App](#create-react-app)
+  - [Available Scripts](#available-scripts)
+  - [Learn More](#learn-more)
+- [Deployment](#deployment)
+- [References]
+
 ## Overview
 
 ### Links
@@ -15,6 +27,7 @@ This project is the solution for the [Toast Notification Component](https://www.
 - CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) - JS library
+- [React-Toastify](https://fkhadra.github.io/react-toastify/introduction)
 
 ## Author
 
@@ -47,9 +60,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 
 ### Learn More
 
