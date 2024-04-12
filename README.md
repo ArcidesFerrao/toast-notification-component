@@ -12,7 +12,7 @@ This project is the solution for the [Toast Notification Component](https://www.
   - [Available Scripts](#available-scripts)
   - [Learn More](#learn-more)
 - [Deployment](#deployment)
-- [References]
+- [References](#references)
 
 ## Overview
 
